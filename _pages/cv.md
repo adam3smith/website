@@ -11,6 +11,8 @@ redirect_from:
 
 <div id="main">
     <div id="content">
+
+      <a href="/files/CV-Karcher.pdf">PDF version</a>
       <h2>Sebastian Karcher</h2>
       
       <p>332, Eggers Hall, Maxwell School, Syracuse University</p>
